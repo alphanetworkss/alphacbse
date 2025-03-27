@@ -1,5 +1,5 @@
 START_MSG = """
-his bot allows you to download non-DRM educational videos from various platforms and mirror them to your preferred cloud storage like Google Drive, any rclone cloud, or even send them to Telegram or DDL servers.</i>
+This bot allows you to download non-DRM educational videos from various platforms and mirror them to your preferred cloud storage like Google Drive, any rclone cloud, or even send them to Telegram or DDL servers.</i>
 <b>Type /{cmd} to get a list of available commands
 
 """
