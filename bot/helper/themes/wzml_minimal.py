@@ -4,7 +4,7 @@ class WZMLStyle:
     # async def start(client, message) ---> __main__.py
     ST_BN1_NAME = "✨Join CHannel✨"
     ST_BN1_URL = "https://t.me/+eldH4g3FY6JlMDY9"
-    ST_BN2_NAME = "✨DL-Group✨"
+    ST_BN2_NAME = "⚡DL-Group⚡"
     ST_BN2_URL = "https://t.me/+e9KSGZFoxv03NjQ1"
     ST_MSG = """<i>This bot allows you to download non-DRM educational videos from various platforms and mirror them to your preferred cloud storage like Google Drive, any rclone cloud, or even send them to Telegram or DDL servers.</i>
 <b>Type {help_command} to get a list of available commands</b>"""
